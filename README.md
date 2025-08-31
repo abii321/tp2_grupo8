@@ -1,4 +1,4 @@
-## TP 3 - PROGRAMACION ORIENTADA A OBJETOS
+## TP 2 - PROGRAMACION ORIENTADA A OBJETOS
 
 Integrante - Nombre en github
 - Cansino Lujan, lujancansino
