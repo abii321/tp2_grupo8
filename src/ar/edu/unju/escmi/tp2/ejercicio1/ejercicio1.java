@@ -1,6 +1,6 @@
 package ar.edu.unju.escmi.tp2.ejercicio1;
 
-public class Ejercicio1 {
+public class ejercicio1 {
     public static void main(String[] args) {
         int dni = 45200145;
         char ejemplar = 'A';
