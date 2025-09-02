@@ -2,7 +2,7 @@ package ar.edu.unju.escmi.tp2.ejercicio6;
 
 import java.util.Scanner;
 
-public class ejercicio6 {
+public class Ejercicio6 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
@@ -15,3 +15,4 @@ public class ejercicio6 {
         sc.close();
     }
 }
+        
